@@ -3951,7 +3951,7 @@
         "AutoCloseTimeout": 15
       },
       "NativeOAuthLogin": {
-        "Enabled": false
+        "Enabled": true
       },
       "SoundAlert": {
         "UseNativePlayer": true,
